@@ -4,4 +4,11 @@
 
 Labs covering PC hardware, BIOS configuration, OS installation, diagnostics, and troubleshooting workflows.
 
-👉 **View all Troubleshooting Projects:** (ADD LINK TO TROUBLESHOOTING PROJECT PAGE HERE)
+---
+
+## 🧾 Bring Your Own Device (BYOD) Registration & Risk Evaluation
+Hands-on project focused on evaluating a personal endpoint for enterprise BYOD approval by documenting hardware specifications, operating system security, patch compliance, and alignment with industry best practices. 
+
+👉 [**View Full Lab Report**](https://github.com/Pelumi-Johnson/BYOD-Security-Assessment-Device-Compliance-Project/tree/main)
+
+---
