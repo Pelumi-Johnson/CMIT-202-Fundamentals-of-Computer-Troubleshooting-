@@ -12,3 +12,10 @@ Hands-on project focused on evaluating a personal endpoint for enterprise BYOD a
 👉 [**View Full Lab Report**](https://github.com/Pelumi-Johnson/BYOD-Security-Assessment-Device-Compliance-Project/tree/main)
 
 ---
+
+## 📊 Enterprise Desktop Migration & Device Selection Analysis
+A business-focused IT proposal evaluating laptop vendors and recommending standardized devices for two user groups, balancing performance, cost efficiency, security, and long-term support.
+
+👉 [**View Full Lab Report**](https://github.com/Pelumi-Johnson/Desktop-Migration-Laptop-Procurement-Proposal/tree/main?tab=readme-ov-file)
+
+---
