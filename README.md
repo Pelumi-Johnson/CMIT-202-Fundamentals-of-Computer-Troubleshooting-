@@ -24,3 +24,12 @@ A business-focused IT proposal evaluating laptop vendors and recommending standa
 Hands-on troubleshooting project simulating real-world IT support tickets across **Level 1, Level 2, and Level 3**, applying structured diagnostic thinking based on the CompTIA troubleshooting methodology.
 
 ➡ [**View Full Lab Report**](https://github.com/Pelumi-Johnson/IT-Support-Queue-Case-Study-Multi-Level-Troubleshooting)
+
+---
+
+## 🔍 Network Troubleshooting & Visibility Tool Report
+Hands-on troubleshooting project focused on identifying and analyzing inbound network connection attempts using the netstat utility to determine whether adversaries or unauthorized services are reaching internal systems.
+
+➡ [**View Full Lab Report**](https://github.com/Pelumi-Johnson/Network-Troubleshooting-Visibility-Tool-Report/tree/main)
+
+---
