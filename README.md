@@ -19,3 +19,8 @@ A business-focused IT proposal evaluating laptop vendors and recommending standa
 ➡ [**View Full Lab Report**](https://github.com/Pelumi-Johnson/Desktop-Migration-Laptop-Procurement-Proposal/tree/main?tab=readme-ov-file)
 
 ---
+
+## 🖱️ IT Support Queue Case Study - Multi-Level Troubleshooting
+Hands-on troubleshooting project simulating real-world IT support tickets across **Level 1, Level 2, and Level 3**, applying structured diagnostic thinking based on the CompTIA troubleshooting methodology.
+
+➡ [**View Full Lab Report**](https://github.com/Pelumi-Johnson/IT-Support-Queue-Case-Study-Multi-Level-Troubleshooting)
